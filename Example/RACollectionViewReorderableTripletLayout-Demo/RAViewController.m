@@ -57,7 +57,7 @@
     return 5.f;
 }
 
-- (CGFloat)minimumInteritemSpacingForCollectionView:(UICollectionView *)collectionView
+-(CGFloat)minimumInteritemSpacingForCollectionView:(UICollectionView *)collectionView
 {
     return 5.f;
 }
